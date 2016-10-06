@@ -1,0 +1,6 @@
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\bin\WebApplication1.dll
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\bin\WebApplication1.pdb
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\bin\EPPlus.dll
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\obj\Debug\ServerInfoAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\server_info\WebApplication1\obj\Debug\WebApplication1.pdb
