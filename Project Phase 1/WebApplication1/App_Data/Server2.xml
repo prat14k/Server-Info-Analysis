@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+	<value>
+		
+		<name>
+		Mushrooms
+		</name>
+		
+		<int1>
+		23
+		</int1>
+		
+		<float1>
+		23.55
+		</float1>		
+	</value>
+
+	
+	<value>
+		
+		<name>
+		Onions
+		</name>
+		
+		<int1>
+		43
+		</int1>
+		
+		<float1>
+		65.344
+		</float1>
+		
+		
+	</value>
+	<value>
+		
+		<name>
+		Olives
+		</name>
+		
+		<int1>
+		54
+		</int1>
+		
+		<float1>
+		65.4
+		</float1>
+		
+		
+	</value>
+	<value>
+		
+		<name>
+		Zucchini
+		</name>
+		
+		<int1>
+		54
+		</int1>
+		
+		<float1>
+		54.23
+		</float1>
+		
+		
+	</value>
+	<value>
+		
+		<name>
+		Pepperoni
+		</name>
+		
+		<int1>
+		2
+		</int1>
+		
+		<float1>
+		34.34
+		</float1>
+		
+		
+	</value>
+
+</data>
